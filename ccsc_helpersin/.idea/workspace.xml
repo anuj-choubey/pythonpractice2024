@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93a9922a-c40f-4cb7-945a-1655179b89c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Base/base_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Base/email_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Reports/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Reports/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/TestCases/Test_Regist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/TestCases/Test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/TestCases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/TestCases/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/TestCases/path/to/your/folder/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/TestCases/path/to/your/folder/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Utilities/.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/Utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/pageObject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/pageObject/userr/Add_Activity_page/activity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/pageObject/userr/Login_page/loginn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/pageObject/userr/Login_page/loginn_bk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/pageObject/userr/Register_page/reegis.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/env/Lib/site-packages/pip/_internal/req/req_uninstall.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/Base/base_driver.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/Base/email_random.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/TestCases/Test_Regist.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/TestCases/Test_login.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/TestCases/conftest.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/Utilities/.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/pageObject/userr/Login_page/loginn.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonProject2/pageObject/userr/Register_page/reegis.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gBURQtE6MZ7wl52i40l9pFOtPU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for Test_Regist.Test_Ccc_Register_Page.executor": "Run",
+    "Python tests.Python tests for Test_Regist.Test_Ccc_Register_Page.test_TC1.executor": "Run",
+    "Python tests.Python tests for Test_Regist.Test_Ccc_Register_Page.test_wihout_password.executor": "Run",
+    "Python tests.Python tests for Test_Regist.Test_Ccc_Register_Page.test_without_data.executor": "Run",
+    "Python tests.Python tests for test_Regist.Test_Ccc_Register_Page.test_TC2.executor": "Run",
+    "Python tests.Python tests in Test_Regis.py.executor": "Run",
+    "Python tests.Python tests in Test_Regist.py.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.email_random.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Anuj/ccsc_automation",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anuj\ccsc_helpersin\pythonProject2\pageObject\userr\Login_page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anuj\ccsc_helpersin" />
+      <recent name="C:\Users\Anuj\ccsc_helpersin\pythonProject2\TestCases\TestUser\Testregister" />
+      <recent name="C:\Users\Anuj\ccsc_helpersin\pythonProject2\TestCases\TestUser" />
+      <recent name="C:\Users\Anuj\ccsc_helpersin\pythonProject2\TestCases" />
+      <recent name="C:\Users\Anuj\ccsc_helpersin\pythonProject2" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run Python file" flag="true" />
+      <visibility group="Run conda command" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="Run pip command" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="true" />
+      <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingCondaProvider" flag="true" />
+      <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingFileProvider" flag="true" />
+      <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingPipProvider" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Python.email_random">
+    <configuration name="email_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ccsc_helpersin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject2/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject2/Base/email_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ccsc_helpersin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject2/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page.test_wihout_password" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ccsc_helpersin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject2/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page.test_wihout_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page.test_without_data" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ccsc_helpersin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject2/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page.test_without_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in C:/Users/Anuj/ccsc_helpersin/pythonProject2/TestCases/User/register/Test_Regist.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ccsc_helpersin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject2/TestCases/User/register" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pythonProject2/TestCases/User/register/Test_Regist.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page.test_wihout_password" />
+        <item itemvalue="Python tests.Python tests for pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page.test_without_data" />
+        <item itemvalue="Python.email_random" />
+        <item itemvalue="Python tests.Python tests for pythonProject2.TestCases.TestUser.Testregister.Test_Regist.Test_Ccc_Register_Page" />
+        <item itemvalue="Python tests.Python tests in C:/Users/Anuj/ccsc_helpersin/pythonProject2/TestCases/User/register/Test_Regist.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93a9922a-c40f-4cb7-945a-1655179b89c3" name="Changes" comment="" />
+      <created>1715170456473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715170456473</updated>
+    </task>
+    <servers />
+  </component>
+</project>
